@@ -163,8 +163,6 @@ Here is an example of result on a test image:
 
 Here's a [link to my video result](./project_video_processed.mp4)
 
-Here's [link to my video result on YouTube](https://www.youtube.com/watch?v=_a8vm3tCYoI)
-
 ---
 
 ### Discussion
